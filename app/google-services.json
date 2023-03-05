@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689461008490",
+    "project_id": "cloudcomputing-firebasetask1",
+    "storage_bucket": "cloudcomputing-firebasetask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689461008490:android:756078473bdc3b6ac71213",
+        "android_client_info": {
+          "package_name": "com.example.cloudcomputing_firebasetask1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689461008490-2geck8bu7k9eg5efvlk4h8s771pviqk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2B5K5fv7EmTV68-ECGdqZmF5mDv8qnYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689461008490-2geck8bu7k9eg5efvlk4h8s771pviqk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
